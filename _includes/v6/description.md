@@ -1,4 +1,4 @@
-Welcome to our hands-on introductory course on vantage6, a state-of-the-art platform for Privacy Enhancing Technologies (PETs). This course is divided into two sections. You can participate in the initial section or in both sections.
+This is a hands-on introductory course on vantage6, a state-of-the-art platform for Privacy Enhancing Technologies (PETs). This course is divided into two sections. You can participate in the initial section or in both sections.
 
 The initial section of the course is intended for participants who want to learn what PETs are and how to execute them using the vantage6 User Interface (UI). You will learn what PETs are and why vantage6 is essential for them. Next, you will learn how all major components of the vantage6 framework interact with each other and what there for. Finally, you will setup a collaboration using existing data stations and start a PET analysis. For this part you don't need any programming experience.
  
