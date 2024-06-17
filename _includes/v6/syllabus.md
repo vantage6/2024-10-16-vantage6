@@ -1,4 +1,4 @@
-##### Day 1
+### Day 1
  
 1. Introduction to PETs
 
@@ -52,7 +52,7 @@
 
         - Reset an API key
  
-##### Day 2
+### Day 2
  
 5. Run PET analysis using the Python client
 
