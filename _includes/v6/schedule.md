@@ -1,3 +1,4 @@
+#### Day 1
 
 | Time  | Topic                                                |
 | ----- | ---------------------------------------------------- |
@@ -12,7 +13,7 @@
 | 15:55 | Project management in the UI                         |
 | 16:45 | END                                                  |
 
-##### Day 2
+#### Day 2
  
 | Time  | Topic                                         |
 | ----- | --------------------------------------------- |
@@ -26,3 +27,4 @@
 | 14:00 | Coffee break                                  |
 | 14:15 | Creating basic algorithms part 2              |
 | 15:00 | Working on your own v6 projects (free format) |
+| 16:45 | END                                           |

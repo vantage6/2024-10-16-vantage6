@@ -15,7 +15,7 @@ startdate: FIXME      # machine-readable start date for the workshop in YYYY-MM-
 enddate: FIXME        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["instructor one", "instructor two"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["helper one", "helper two"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["d.smits@esciencecenter.nl", "f.martin@iknl.nl"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+email: ["d.smits@esciencecenter.nl"]   # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
@@ -251,7 +251,7 @@ special instructions.
 
 <p id="files">
   <strong>Workshop files:</strong>
-  You will find all slides, notebooks, archived collaborative documents, and other relevant files in the <a href="https://github.com/esciencecenter-digital-skills/{{ info.slug }}/tree/main/files">files</a> folder of the workshop website repository after the workshop.
+  You will find all slides, notebooks, archived collaborative documents, and other relevant files in the <a href="https://github.com/vantage6/{{ info.slug }}/tree/main/files">files</a> folder of the workshop website repository after the workshop.
 </p>
 
 {% comment %}
@@ -264,13 +264,7 @@ Display the contact email address set in the configuration file.
   Please email
   {% if site.email %}
   {% for email in site.email %}
-  {% if forloop.last and site.email.size > 1 %}
-  or
-  {% else %}
-  {% unless forloop.first %}
-  ,
-  {% endunless %}
-  {% endif %}
+  
   <a href='mailto:{{email}}'>{{email}}</a>
   {% endfor %}
   {% else %}
@@ -433,11 +427,7 @@ please preview your site before committing, and make sure to run
   you will need access to software as described below.
   In addition, you will need an up-to-date web browser.
 </p>
-<p>
-  We maintain a list of common issues that occur during installation as a reference for instructors
-  that may be useful on the
-  <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
-</p>
+
 
 {% comment %}
 These are the installation instructions for the tools used
