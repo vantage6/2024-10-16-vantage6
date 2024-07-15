@@ -12,9 +12,10 @@
 | 15:40 | Coffee break                                         |
 | 15:55 | Project management in the UI                         |
 | 16:45 | END                                                  |
+| 18:30 | Workshop dinner                                      |
 
 #### Day 2
- 
+
 | Time  | Topic                                         |
 | ----- | --------------------------------------------- |
 | 9:00  | Run PET analysis using the python client      |
