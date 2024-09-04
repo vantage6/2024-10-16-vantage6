@@ -1,1 +1,1 @@
-Link will follow
+See https://workshop.vantage6.ai/#software-setup
