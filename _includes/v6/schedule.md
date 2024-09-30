@@ -20,6 +20,7 @@
 
 | Time  | Topic                                         |
 | ----- | --------------------------------------------- |
+| 8:30  | Walk-in and coffee                            |
 | 9:00  | Run analyses using the Python client          |
 | 10:00 | Coffee break                                  |
 | 10:15 | Make your data available in vantage6          |
