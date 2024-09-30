@@ -2,16 +2,18 @@
 
 | Time  | Topic                                                |
 | ----- | ---------------------------------------------------- |
-| 10:00 | Introduction to PETs part 1                          |
-| 11:20 | Coffee break                                         |
-| 11:35 | Introduction to vantage6                             |
-| 12:40 | Lunch break                                          |
-| 13:40 | Starting PET analysis from the UI part 1             |
-| 14:25 | Coffee break                                         |
-| 14:40 | Starting PET analysis from the UI part 2 (exersises) |
-| 15:40 | Coffee break                                         |
-| 15:55 | Project management in the UI                         |
-| 16:45 | END                                                  |
+| 09:30 | Walk-in and registration                             |
+| 10:00 | Welcome and introduction                             |
+| 10:15 | Introduction to PETs part 1                          |
+| 11:35 | Coffee break                                         |
+| 11:50 | Introduction to vantage6                             |
+| 12:55 | Lunch break                                          |
+| 13:55 | Starting PET analysis from the UI part 1             |
+| 14:40 | Coffee break                                         |
+| 14:55 | Starting PET analysis from the UI part 2 (exersises) |
+| 15:55 | Coffee break                                         |
+| 16:10 | Project management in the UI                         |
+| 17:00 | END                                                  |
 | 18:30 | Workshop dinner                                      |
 
 #### Day 2
